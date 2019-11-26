@@ -1,6 +1,7 @@
 # Diachronic-Embeddings
 WP6: some code on our work on diachronic word embeddings for Finnish and Swedish newspaper corpora
 
+tSNE plots and Sankey chart visualizations of diachronic word embeddings:
 Github link: https://github.com/ezosa/Diachronic-Visualizations
 
 Link to papers where we used these visualizations:
