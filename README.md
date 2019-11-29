@@ -3,7 +3,7 @@ WP6: some code on our work on diachronic word embeddings for Finnish and Swedish
 
 tSNE plots and Sankey chart visualizations of diachronic word embeddings:
 
-https://github.com/ezosa/Diachronic-Visualizations
+https://github.com/ezosa/Diachronic-Embeddings
 
 Link to papers where we used these visualizations:
 
